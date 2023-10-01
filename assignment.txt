@@ -1,0 +1,40 @@
+title, date
+list, color
+description
+
+id:"",
+status:"",
+dateCreated: serverTimeStamp()
+createdBy:{
+fullName:"",
+email:"",
+uid:""
+}
+
+---------------------------------
+
+color, title
+
+id:"",
+status:"",
+dateCreated: serverTimeStamp()
+createdBy:{
+fullName:"",
+email:"",
+uid:""
+}
+
+https://uizard.io/static/f12f8cba56dc4edf576aed59dca5360a/d9bdf/to-do-web-app-sticky-wall.png
+
+
+
+
+
+
+
+
+
+
+
+
+
